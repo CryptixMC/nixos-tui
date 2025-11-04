@@ -24,6 +24,8 @@
             pkgs.cargo
             pkgs.rustfmt
             pkgs.clippy
+            pkgs.pkg-config
+            pkgs.openssl
           ];
         };
       }

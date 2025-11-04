@@ -7,3 +7,6 @@ description = "A TUI application for NixOS"
 license = "MIT"
 
 [dependencies]
+ratatui = "0.24"
+crossterm = "0.27"
+git2 = "0.18"
