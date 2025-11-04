@@ -1,0 +1,9 @@
+[package]
+name = "nixos-tui"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A TUI application for NixOS"
+license = "MIT"
+
+[dependencies]
